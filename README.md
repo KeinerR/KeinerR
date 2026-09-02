@@ -9,7 +9,8 @@
 
 Desarrollador de Software con enfoque en Backend y DevOps, con trayectoria iniciada en agosto de 2024. Actualmente, curso estudios superiores en ingeniería, donde he desarrollado una sólida base en la gestión de entornos virtualizados y contenedores.
 
-Mi experiencia técnica incluye el despliegue y optimización de aplicaciones utilizando Docker, entornos Linux (Ubuntu) y herramientas de automatización como n8n. Cuento con dominio de frameworks como Laravel y Django, además de una gestión eficiente de versiones en GitLab. Mi objetivo a corto plazo es especializarme en Arquitectura de Infraestructura en la Nube, apalancado en mi capacidad de resolución de problemas y mi constante progresión en el idioma inglés (nivel actual A2/B1).
+Desarrollador de Software con enfoque en Backend y DevOps, con experiencia en el diseño e implementación de APIs REST, optimización de bases de datos y despliegue de aplicaciones en entornos Linux utilizando Docker.
+He participado en el desarrollo de plataformas empresariales orientadas a la transformación digital, integrando múltiples servicios y mejorando la eficiencia operativa. Me caracterizo por la resolución de problemas, la escalabilidad de soluciones y el interés en la arquitectura de infraestructura en la nube.
 
 - 🔭 Actualmente trabajando en: Proyectos de automatización y despliegue.
 - 🌱 Aprendiendo: Cloud Computing (AWS/Azure) y perfeccionando mi inglés.
